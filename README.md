@@ -19,7 +19,7 @@ $ git init [Repositry name]
 This command is used to make a copy of a repository from an existing URL. This command allows creating a local copy of that repository on your local directory from the repository URL.
 
 syntax:
-$ git clone https://github.com/Gaurav-Dadhich/Project-0-22BIT0395-
+$ git clone https://github.com/ShanayShukla/VITMAS/edit/main/README.md
 
 4. Git add command.
 This command is used to add one or more files to staging (Index) area.
