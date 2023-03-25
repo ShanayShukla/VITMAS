@@ -7,7 +7,7 @@ Git supports many command-line tools and graphical user interfaces. The Git comm
 This command configures the user. The Git config command is the first and necessary command used on the Git command line.
 
 Syntax:
-$ git config --global user.name "Gaurav-Dadhich" $ git config --global user.email "kryptogaurav@gmail.com"
+$ git config --global user.name "Gaurav-Dadhich" $ git config --global user.email "shanayshukla17@gmail.com"
 
 2. Git Init command.
 This command is used to create a local repository.
